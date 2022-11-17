@@ -1,10 +1,10 @@
 # Capstone Project - UI Design
 
-## Member 1 Registration Number:
+## Member 1 Registration Number:220002704
 
-## Member 2 Registration Number:
+## Member 2 Registration Number:220009037
 
-## Department:
+## Department:information systems
 
 ## Figma Design URL:
 
