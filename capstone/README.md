@@ -6,7 +6,7 @@
 
 ## Department:information systems
 
-## Figma Design URL:
+## Figma Design URL:https://www.figma.com/file/gGtv8q0XTaw2IfL5FHATYw/UI-update?node-id=7%3A204&t=Ji4JC1gLuM0oMKL0-0
 
 ## Scenario
 
